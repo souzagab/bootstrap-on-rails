@@ -29,8 +29,8 @@
 
   
 
-Clone  
-[Rename](https://github.com/morshedalam/rename) 
+Clone  📥
+[Rename](https://github.com/morshedalam/rename) ✏️
 Use  🎯
 
 ## Dependencies
